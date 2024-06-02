@@ -48,7 +48,7 @@ export default function LeftPannel() {
       <ChevronUpIcon onClick={handleButtonClick} className="h-5 w-5  text-blue-500  ml-2 cursor-pointer" />
       <MicrophoneIcon className="h-5 w-5   text-blue-500  ml-2 mr-2 cursor-pointer" />
     </div>
-  <div className="border flex flex-row place-content-around basis-1/12">
+  <div className=" flex flex-row place-content-around basis-1/12 mt-2  mb-5">
 
       <div className='basic-4/12 '>
       <RewindIcon className="h-8 w-8 text-blue-500  cursor-pointer mr-8" />
