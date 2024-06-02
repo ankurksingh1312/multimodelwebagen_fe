@@ -1,4 +1,4 @@
-export default function CommandCard(props:any){
+export default function CommandCard(props:{textCommand:string}){
 
     const { textCommand } = props
   
