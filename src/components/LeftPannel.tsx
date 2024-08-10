@@ -9,9 +9,9 @@ export default function LeftPannel() {
   const [inputText, setInputText] = useState<string>('');
   const [comments, setComments] = useState<string[]>(
     [
-      "Add the book Zero to One",
-      "Whats the top post",
-      "Reserve a table  Fogo de Chao",
+      "Find the top gainers stock today",
+      "Why is reliance jio trading very high today",
+      "Forcast the price of Bnank nifty for tommorrow",
       "How much NVIDIA stock gain today",
     ]
   
